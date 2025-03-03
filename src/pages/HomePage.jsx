@@ -375,7 +375,7 @@ function HomePage() {
             </ProfileInfo>
           </ProfileSection>
 
-          <SectionTitle>SUMMARY</SectionTitle>
+          <SectionTitle>ABOUT ME</SectionTitle>
           <SummaryText>
             I'm a CS student at Georgia Tech with specialization in System
             Architecture and Theory.
