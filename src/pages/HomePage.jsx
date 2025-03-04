@@ -363,7 +363,7 @@ function HomePage() {
               <h1>
                 Thanh Trinh{" "}
                 <a
-                  href="https://etherscan.io/address/0x7a918b28b960c8dbe7c0ea9f889cc1ce1072ecce"
+                  href="https://zapper.xyz/account/0x7a918b28b960c8dbe7c0ea9f889cc1ce1072ecce"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="domain"
