@@ -4,11 +4,11 @@ export const blogPosts = [
     id: 1,
     title: "0xthanh's personal guide into crypto as a student",
     excerpt:
-      "I got into crypto through hackathons and internships—learning by building, breaking things, and reading docs at 2AM. It was chaotic, but that’s what made it exciting. This guide is a distilled version of the resources that helped me make sense of it all.",
+      "I got into crypto through hackathons and internships—learning by building, breaking things, and reading docs at 2AM. It was chaotic, but that’s what made it exciting. This guide comprisies all helpful resources I found.",
     date: "2025-06-14",
     readTime: "10 min read",
     category: "Crypto",
-  }
+  },
 ];
 
 // Full blog content
