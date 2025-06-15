@@ -60,12 +60,6 @@ export const blogContent = {
         </li>
     </ul>
 
-    <h2>🔬 Advanced Topics</h2>
-    <ul>
-        <li><strong>Zero-Knowledge Proofs (ZK)</strong> – Privacy-preserving proofs like zk-SNARKs & zk-STARKs</li>
-        <li><strong>Formal Verification</strong> – Proving smart contracts work as expected mathematically</li>
-    </ul>
-
     <h2>🚀 Important Topics / Projects to Explore</h2>
     <ul>
         <li><strong>Lido</strong> – Liquid staking protocol (stETH)</li>
@@ -75,6 +69,12 @@ export const blogContent = {
         <li><strong>Chainlink</strong> – Oracle and randomness infrastructure (incl. CCIP)</li>
         <li><strong>Across</strong> – Secure and efficient cross-chain bridging</li>
         <li><strong>Layer 2s</strong> – Compare Optimistic Rollups (e.g., OP) vs ZK-Rollups</li>
+    </ul>
+
+    <h2>🔬 Advanced Topics</h2>
+    <ul>
+        <li><strong>Zero-Knowledge Proofs (ZK)</strong> – Privacy-preserving proofs like zk-SNARKs & zk-STARKs</li>
+        <li><strong>Formal Verification</strong> – Proving smart contracts work as expected mathematically</li>
     </ul>
 
     <h2>🧠 Tips for Learning</h2>
