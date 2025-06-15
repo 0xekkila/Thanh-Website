@@ -16,7 +16,6 @@ const AboutSection = () => {
         Architecture and Theory.
       </SummaryText>
       <SummaryText>Currently, I'm super into blockchain and defi for at least the next 5 years.</SummaryText>
-      <SummaryText>In my free time, I like to play video games (CS2, Valorant, etc.), watch animes, and play poker.</SummaryText>
     </>
   );
 };

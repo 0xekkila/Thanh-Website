@@ -61,10 +61,9 @@ const NavLinks = styled.div`
 function Navbar() {
   return (
     <NavbarWrapper>
-      <Logo to="/">YourName</Logo>
+      <Logo to="/">Thanh's Blog</Logo>
       <NavLinks>
-        <Link to="/about">About</Link>
-        <Link to="/contact">Contact</Link>
+        <Link to="/">Home</Link>
       </NavLinks>
     </NavbarWrapper>
   );
