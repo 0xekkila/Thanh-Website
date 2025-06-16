@@ -51,11 +51,12 @@ export const blogContent = {
             <li>Curve – Stablecoin-focused AMM</li>
             <li>Balancer – Generalized AMM with customizable pools</li>
         </ul>
-        <li>Some famous ERCs standards to read into:
+        <li>Some famous ERCs standards to read into (check out from OpenZeppelin / Solady):
         <ul>
             <li>ERC20 – Standard for fungible tokens</li>
             <li>ERC721 – Standard for non-fungible tokens</li>
             <li>ERC1155 – Standard for multiple token types</li>
+            <li>ERC4626 – Standard for tokenized vaults</li>
         </ul>
         </li>
     </ul>
@@ -63,17 +64,20 @@ export const blogContent = {
     <h2>🚀 Important Topics / Projects to Explore</h2>
     <ul>
         <li><strong>Lido</strong> – Liquid staking protocol (stETH)</li>
+        <li><strong>Circles and Stablecoins</strong> - How they work and how they are used</li>
         <li><strong>Aave</strong> – Decentralized lending/borrowing platform</li>
         <li><strong>Pendle</strong> – Yield trading and fixed income DeFi</li>
         <li><strong>EigenLayer</strong> – Restaking protocol enabling AVS (Actively Validated Services)</li>
         <li><strong>Chainlink</strong> – Oracle and randomness infrastructure (incl. CCIP)</li>
         <li><strong>Across</strong> – Secure and efficient cross-chain bridging</li>
         <li><strong>Layer 2s</strong> – Compare Optimistic Rollups (e.g., OP) vs ZK-Rollups</li>
+        <li><strong>Virtuals</strong> - Platform to launch AI agents</li>
+        <li><strong>Polymarket</strong> - Platform to launch prediction markets</li>
     </ul>
-
     <h2>🔬 Advanced Topics</h2>
     <ul>
         <li><strong>Zero-Knowledge Proofs (ZK)</strong> – Privacy-preserving proofs like zk-SNARKs & zk-STARKs</li>
+        <li><strong>Assembly script and Gas optimization</strong> – Learn how to write efficient smart contracts</li>
         <li><strong>Formal Verification</strong> – Proving smart contracts work as expected mathematically</li>
     </ul>
 
